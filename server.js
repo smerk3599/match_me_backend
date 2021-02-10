@@ -8,8 +8,10 @@ const app = express()
 require('dotenv').config()
 const PORT = process.env.PORT
 
+//MIDDLEWARE
+app.use(express.json())
 
-
+//USE CONTROLLER
 const cardsController = require('./controllers/cards_controller.js')
 app.use('/cards', cardsController)
 
