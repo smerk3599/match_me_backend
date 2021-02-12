@@ -46,7 +46,7 @@ cards.delete('/:id', (req, res) => {
 
 cards.get('/seed', (req, res) => {
   Card.insertMany(cardSeed, (err, manyCards) => {
-    res.redirect('/birds')
+    res.redirect('/cards')
   })
 })
 
