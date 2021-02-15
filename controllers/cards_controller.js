@@ -36,6 +36,9 @@ cards.put('/:name', (req, res) => {
   )
 })
 
+//https://a-z-animals.com/media/2021/01/mammals-400x300.jpg
+//https://www.cdc.gov/coronavirus/2019-ncov/images/daily-life-coping/tiger-medium.JPG
+
 cards.delete('/:id', (req, res) => {
   Card.findByIdAndRemove(req.params.id, (err, deletedCard) => {
     Card.find({}, (err, foundCards) => {
