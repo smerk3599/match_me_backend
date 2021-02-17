@@ -24,18 +24,6 @@ module.exports = [
       status: 'back'
   },
   {
-      name:'Emperor Penguins',
-      front:'https://www.vpr.org/sites/vpr/files/styles/medium/public/202001/emperor-penguins-istock-Mario_Hoppmann.png',
-      back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
-      status: 'back'
-  },
-  {
-      name:'Emperor Penguins',
-      front:'https://www.vpr.org/sites/vpr/files/styles/medium/public/202001/emperor-penguins-istock-Mario_Hoppmann.png',
-      back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
-      status: 'back'
-  },
-  {
       name:'Baby Panda',
       front:'https://i.pinimg.com/originals/82/b7/7c/82b77c6d6d0ffca41751314401014aee.jpg',
       back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
@@ -156,18 +144,6 @@ module.exports = [
       status: 'back'
   },
   {
-      name:'Butterflies',
-      front:'https://unsplash.com/photos/IZOf4LVoR-o',
-      back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
-      status: 'back'
-  },
-  {
-      name:'Butterflies',
-      front:'https://unsplash.com/photos/IZOf4LVoR-o',
-      back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
-      status: 'back'
-  },
-  {
       name:'Jellyfish',
       front:'https://images.unsplash.com/photo-1612676880381-2bc5367a2ad7?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDU3fEpwZzZLaWRsLUhrfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60',
       back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
@@ -176,6 +152,30 @@ module.exports = [
   {
       name:'Jellyfish',
       front:'https://images.unsplash.com/photo-1612676880381-2bc5367a2ad7?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDU3fEpwZzZLaWRsLUhrfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60',
+      back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
+      status: 'back'
+  },
+  {
+      name:'Bald Eagle',
+      front:'https://images.unsplash.com/photo-1611689342806-0863700ce1e4?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxNHxKcGc2S2lkbC1Ia3x8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+      back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
+      status: 'back'
+  },
+  {
+      name:'Bald Eagle',
+      front:'https://images.unsplash.com/photo-1611689342806-0863700ce1e4?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxNHxKcGc2S2lkbC1Ia3x8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+      back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
+      status: 'back'
+  },
+  {
+      name:'Kitty Cat',
+      front:'https://unsplash.com/photos/Nkc1VSvrEt0',
+      back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
+      status: 'back'
+  },
+  {
+      name:'Kitty Cat',
+      front:'https://unsplash.com/photos/Nkc1VSvrEt0',
       back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
       status: 'back'
   }
