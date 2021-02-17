@@ -72,7 +72,7 @@ module.exports = [
       status: 'back'
   },
   {
-      name:'Aramdillo',
+      name:'Armadillo',
       front:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLLgx-Qds6Cif8-HdcnDMJS6D2UMh9DXZXhQ&usqp=CAU',
       back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
       status: 'back'
@@ -168,14 +168,14 @@ module.exports = [
       status: 'back'
   },
   {
-      name:'Kitty Cat',
-      front:'https://unsplash.com/photos/Nkc1VSvrEt0',
+      name:'Giraffe',
+      front:'https://images.unsplash.com/photo-1534567110243-8875d64ca8ff?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDI4MHxKcGc2S2lkbC1Ia3x8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
       back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
       status: 'back'
   },
   {
-      name:'Kitty Cat',
-      front:'https://unsplash.com/photos/Nkc1VSvrEt0',
+      name:'Giraffe',
+      front:'https://images.unsplash.com/photo-1534567110243-8875d64ca8ff?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDI4MHxKcGc2S2lkbC1Ia3x8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
       back:'https://i.pinimg.com/originals/b8/11/a5/b811a58a20c1b74d1179f44771747d76.jpg',
       status: 'back'
   }
